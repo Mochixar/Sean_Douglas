@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Sean Douglas(Mochixar)</h1>
 <h3 align="center">Aspiring Software developer (Fullstack)</h3>
 
-- 🌱 :**Currently exploring the MERN and LAMP stacks for full-stack web development.**
+- 🌱 : **Currently exploring the MERN and LAMP stacks for full-stack web development.**
 
-- ⚡ Fun fact:**I absolutely love Neon Genesis Evangelion**
+- ⚡ Fun fact: **I absolutely love Neon Genesis Evangelion**
 
 <p align="left">
 </p>
